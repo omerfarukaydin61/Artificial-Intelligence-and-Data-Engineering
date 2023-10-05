@@ -23,3 +23,6 @@ https://drive.google.com/drive/folders/1gQzb6l5cZECDbeTGThND2SrejZJlXVRk
 
 YZV 202E Optimization for Data Science<br/>
 https://drive.google.com/drive/folders/1jKuNVWHGgraXa46wDx9M3sTBDgPRzrgS
+
+YZV 212E Fund.ofArtificial Intelligence<br/>
+https://drive.google.com/drive/folders/1W3WgFxemTq4wSAVVhFyzY7jIv2EVibh4
