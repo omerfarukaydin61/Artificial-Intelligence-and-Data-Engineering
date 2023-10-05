@@ -18,3 +18,5 @@ https://drive.google.com/drive/folders/16HJDhh3hzWtJljlYrBhnVc_jUN308_NW
 BLG 202E Numerical Methods in CE<br/>
 https://drive.google.com/drive/folders/1_w8HkXlpGk4WrY-qE-PEDS5bbYjM_2lU
 
+BLG 252E Object Oriented Programming<br/>
+https://drive.google.com/drive/folders/1gQzb6l5cZECDbeTGThND2SrejZJlXVRk
