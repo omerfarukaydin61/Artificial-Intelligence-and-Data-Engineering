@@ -20,3 +20,6 @@ https://drive.google.com/drive/folders/1_w8HkXlpGk4WrY-qE-PEDS5bbYjM_2lU
 
 BLG 252E Object Oriented Programming<br/>
 https://drive.google.com/drive/folders/1gQzb6l5cZECDbeTGThND2SrejZJlXVRk
+
+YZV 202E Optimization for Data Science<br/>
+https://drive.google.com/drive/folders/1jKuNVWHGgraXa46wDx9M3sTBDgPRzrgS
